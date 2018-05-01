@@ -1,0 +1,1178 @@
+/********WEB_DESINGN*********/
+.box-text-WDC{
+	font-family: 'russo one';
+	font-size: 18px;
+	line-height: normal;
+	color: 000;
+	text-align: justify;
+	text-indent:15px;
+	color: #000000;
+	min-height: 100px;
+}
+.box-text-WWW{
+	font-family: 'russo one';
+	font-size: 18px;
+	line-height: normal;
+	color: 000;
+	text-align: justify;
+	text-indent:15px;
+	color: #000000;
+	min-height: 150px;
+}
+
+/***********boxWDS1-******************/
+.ico-boxWDS1{
+	width: auto;
+	height: 170px;
+	background: url(ico/DW32.svg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-top: 10px;
+	margin-bottom: 10px;		  
+}
+.ico-boxWDS1:hover{
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	-webkit-animation-name: cog;
+  -webkit-animation-duration: 5s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-name: cog;
+  -moz-animation-duration: 5s;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-timing-function: linear;
+   -ms-animation-name: cog;
+  -ms-animation-duration: 5s;
+  -ms-animation-iteration-count: infinite;
+  -ms-animation-timing-function: linear;
+ 
+  animation-name: cog;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+@-ms-keyframes cog {
+  from { -ms-transform: rotate(0deg); }
+  to { -ms-transform: rotate(360deg); }
+}
+@-moz-keyframes cog {
+  from { -moz-transform: rotate(0deg); }
+  to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes cog {
+  from { -webkit-transform: rotate(0deg); }
+  to { -webkit-transform: rotate(360deg); }
+}
+@keyframes cog {
+  from {
+    transform:rotate(0deg);
+  }
+  to {
+    transform:rotate(360deg);
+  }	  
+}
+/***********boxWDS2-******************/
+.ico-boxWDS2{
+	width: auto;
+	height: 170px;
+	background: url(ico/DW64.svg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-top: 10px;
+	margin-bottom: 10px;		  
+}
+.ico-boxWDS2:hover{
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	-webkit-animation-name: cog;
+  -webkit-animation-duration: 5s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-name: cog;
+  -moz-animation-duration: 5s;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-timing-function: linear;
+   -ms-animation-name: cog;
+  -ms-animation-duration: 5s;
+  -ms-animation-iteration-count: infinite;
+  -ms-animation-timing-function: linear;
+ 
+  animation-name: cog;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+@-ms-keyframes cog {
+  from { -ms-transform: rotate(0deg); }
+  to { -ms-transform: rotate(360deg); }
+}
+@-moz-keyframes cog {
+  from { -moz-transform: rotate(0deg); }
+  to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes cog {
+  from { -webkit-transform: rotate(0deg); }
+  to { -webkit-transform: rotate(360deg); }
+}
+@keyframes cog {
+  from {
+    transform:rotate(0deg);
+  }
+  to {
+    transform:rotate(360deg);
+  }	  
+}
+/***********boxWDS3-******************/
+.ico-boxWDS3{
+	width: auto;
+	height: 170px;
+	background: url(ico/MUSE.svg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-top: 10px;
+	margin-bottom: 10px;		  
+}
+.ico-boxWDS3:hover{
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	-webkit-animation-name: cog;
+  -webkit-animation-duration: 5s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-name: cog;
+  -moz-animation-duration: 5s;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-timing-function: linear;
+   -ms-animation-name: cog;
+  -ms-animation-duration: 5s;
+  -ms-animation-iteration-count: infinite;
+  -ms-animation-timing-function: linear;
+ 
+  animation-name: cog;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+@-ms-keyframes cog {
+  from { -ms-transform: rotate(0deg); }
+  to { -ms-transform: rotate(360deg); }
+}
+@-moz-keyframes cog {
+  from { -moz-transform: rotate(0deg); }
+  to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes cog {
+  from { -webkit-transform: rotate(0deg); }
+  to { -webkit-transform: rotate(360deg); }
+}
+@keyframes cog {
+  from {
+    transform:rotate(0deg);
+  }
+  to {
+    transform:rotate(360deg);
+  }	  
+}
+/***********boxWDS4-******************/
+.ico-boxWDS4{
+	width: auto;
+	height: 170px;
+	background: url(ico/Moreb4.svg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-top: 10px;
+	margin-bottom: 10px;		  
+}
+.ico-boxWDS4:hover{
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	-webkit-animation-name: cog;
+  -webkit-animation-duration: 5s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-name: cog;
+  -moz-animation-duration: 5s;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-timing-function: linear;
+   -ms-animation-name: cog;
+  -ms-animation-duration: 5s;
+  -ms-animation-iteration-count: infinite;
+  -ms-animation-timing-function: linear;
+ 
+  animation-name: cog;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+@-ms-keyframes cog {
+  from { -ms-transform: rotate(0deg); }
+  to { -ms-transform: rotate(360deg); }
+}
+@-moz-keyframes cog {
+  from { -moz-transform: rotate(0deg); }
+  to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes cog {
+  from { -webkit-transform: rotate(0deg); }
+  to { -webkit-transform: rotate(360deg); }
+}
+@keyframes cog {
+  from {
+    transform:rotate(0deg);
+  }
+  to {
+    transform:rotate(360deg);
+  }	  
+}
+/***********boxWDS5-******************/
+.ico-boxWDS5{
+	width: auto;
+	height: 170px;
+	background: url(ico/WIX.svg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-top: 10px;
+	margin-bottom: 10px;		  
+}
+.ico-boxWDS5:hover{
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	-webkit-animation-name: cog;
+  -webkit-animation-duration: 5s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-name: cog;
+  -moz-animation-duration: 5s;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-timing-function: linear;
+   -ms-animation-name: cog;
+  -ms-animation-duration: 5s;
+  -ms-animation-iteration-count: infinite;
+  -ms-animation-timing-function: linear;
+ 
+  animation-name: cog;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+@-ms-keyframes cog {
+  from { -ms-transform: rotate(0deg); }
+  to { -ms-transform: rotate(360deg); }
+}
+@-moz-keyframes cog {
+  from { -moz-transform: rotate(0deg); }
+  to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes cog {
+  from { -webkit-transform: rotate(0deg); }
+  to { -webkit-transform: rotate(360deg); }
+}
+@keyframes cog {
+  from {
+    transform:rotate(0deg);
+  }
+  to {
+    transform:rotate(360deg);
+  }	  
+}
+/***********boxWDS6-******************/
+.ico-boxWDS6{
+	width: auto;
+	height: 170px;
+	background: url(ico/UKOZ.svg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-top: 10px;
+	margin-bottom: 10px;		  
+}
+.ico-boxWDS6:hover{
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	-webkit-animation-name: cog;
+  -webkit-animation-duration: 5s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-name: cog;
+  -moz-animation-duration: 5s;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-timing-function: linear;
+   -ms-animation-name: cog;
+  -ms-animation-duration: 5s;
+  -ms-animation-iteration-count: infinite;
+  -ms-animation-timing-function: linear;
+ 
+  animation-name: cog;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+@-ms-keyframes cog {
+  from { -ms-transform: rotate(0deg); }
+  to { -ms-transform: rotate(360deg); }
+}
+@-moz-keyframes cog {
+  from { -moz-transform: rotate(0deg); }
+  to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes cog {
+  from { -webkit-transform: rotate(0deg); }
+  to { -webkit-transform: rotate(360deg); }
+}
+@keyframes cog {
+  from {
+    transform:rotate(0deg);
+  }
+  to {
+    transform:rotate(360deg);
+  }	  
+}
+/**********web-sate************/
+.ico-boxWEB01{
+	width: auto;
+	height: 220px;
+	background: url(ico/webTM01.svg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-top: 10px;
+	margin-bottom: 10px;		  
+}
+.ico-boxWEB01:hover{
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	-webkit-animation-name: cog;
+  -webkit-animation-duration: 5s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-name: cog;
+  -moz-animation-duration: 5s;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-timing-function: linear;
+   -ms-animation-name: cog;
+  -ms-animation-duration: 5s;
+  -ms-animation-iteration-count: infinite;
+  -ms-animation-timing-function: linear;
+ 
+  animation-name: cog;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+@-ms-keyframes cog {
+  from { -ms-transform: rotate(0deg); }
+  to { -ms-transform: rotate(360deg); }
+}
+@-moz-keyframes cog {
+  from { -moz-transform: rotate(0deg); }
+  to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes cog {
+  from { -webkit-transform: rotate(0deg); }
+  to { -webkit-transform: rotate(360deg); }
+}
+@keyframes cog {
+  from {
+    transform:rotate(0deg);
+  }
+  to {
+    transform:rotate(360deg);
+  }	  
+}
+/**********web-sate************/
+.ico-boxWEB02{
+	width: auto;
+	height: 220px;
+	background: url(ico/webTM02.svg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-top: 10px;
+	margin-bottom: 10px;		  
+}
+.ico-boxWEB02:hover{
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	-webkit-animation-name: cog;
+  -webkit-animation-duration: 5s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-name: cog;
+  -moz-animation-duration: 5s;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-timing-function: linear;
+   -ms-animation-name: cog;
+  -ms-animation-duration: 5s;
+  -ms-animation-iteration-count: infinite;
+  -ms-animation-timing-function: linear;
+ 
+  animation-name: cog;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+@-ms-keyframes cog {
+  from { -ms-transform: rotate(0deg); }
+  to { -ms-transform: rotate(360deg); }
+}
+@-moz-keyframes cog {
+  from { -moz-transform: rotate(0deg); }
+  to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes cog {
+  from { -webkit-transform: rotate(0deg); }
+  to { -webkit-transform: rotate(360deg); }
+}
+@keyframes cog {
+  from {
+    transform:rotate(0deg);
+  }
+  to {
+    transform:rotate(360deg);
+  }	  
+}
+/**********web-sate************/
+.ico-boxWEB03{
+	width: auto;
+	height: 220px;
+	background: url(ico/webTM03.svg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-top: 10px;
+	margin-bottom: 10px;		  
+}
+.ico-boxWEB03:hover{
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	-webkit-animation-name: cog;
+  -webkit-animation-duration: 5s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-name: cog;
+  -moz-animation-duration: 5s;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-timing-function: linear;
+   -ms-animation-name: cog;
+  -ms-animation-duration: 5s;
+  -ms-animation-iteration-count: infinite;
+  -ms-animation-timing-function: linear;
+ 
+  animation-name: cog;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+@-ms-keyframes cog {
+  from { -ms-transform: rotate(0deg); }
+  to { -ms-transform: rotate(360deg); }
+}
+@-moz-keyframes cog {
+  from { -moz-transform: rotate(0deg); }
+  to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes cog {
+  from { -webkit-transform: rotate(0deg); }
+  to { -webkit-transform: rotate(360deg); }
+}
+@keyframes cog {
+  from {
+    transform:rotate(0deg);
+  }
+  to {
+    transform:rotate(360deg);
+  }	  
+}
+/**********web-sate************/
+.ico-boxWEB04{
+	width: auto;
+	height: 220px;
+	background: url(ico/webTM04.svg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-top: 10px;
+	margin-bottom: 10px;		  
+}
+.ico-boxWEB04:hover{
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	-webkit-animation-name: cog;
+  -webkit-animation-duration: 5s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-name: cog;
+  -moz-animation-duration: 5s;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-timing-function: linear;
+   -ms-animation-name: cog;
+  -ms-animation-duration: 5s;
+  -ms-animation-iteration-count: infinite;
+  -ms-animation-timing-function: linear;
+ 
+  animation-name: cog;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+@-ms-keyframes cog {
+  from { -ms-transform: rotate(0deg); }
+  to { -ms-transform: rotate(360deg); }
+}
+@-moz-keyframes cog {
+  from { -moz-transform: rotate(0deg); }
+  to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes cog {
+  from { -webkit-transform: rotate(0deg); }
+  to { -webkit-transform: rotate(360deg); }
+}
+@keyframes cog {
+  from {
+    transform:rotate(0deg);
+  }
+  to {
+    transform:rotate(360deg);
+  }	  
+}
+/**********web-sate************/
+.ico-boxWEB05{
+	width: auto;
+	height: 220px;
+	background: url( ico/webTM05.svg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-top: 10px;
+	margin-bottom: 10px;		  
+}
+.ico-boxWEB05:hover{
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	-webkit-animation-name: cog;
+  -webkit-animation-duration: 5s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-name: cog;
+  -moz-animation-duration: 5s;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-timing-function: linear;
+   -ms-animation-name: cog;
+  -ms-animation-duration: 5s;
+  -ms-animation-iteration-count: infinite;
+  -ms-animation-timing-function: linear;
+ 
+  animation-name: cog;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+@-ms-keyframes cog {
+  from { -ms-transform: rotate(0deg); }
+  to { -ms-transform: rotate(360deg); }
+}
+@-moz-keyframes cog {
+  from { -moz-transform: rotate(0deg); }
+  to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes cog {
+  from { -webkit-transform: rotate(0deg); }
+  to { -webkit-transform: rotate(360deg); }
+}
+@keyframes cog {
+  from {
+    transform:rotate(0deg);
+  }
+  to {
+    transform:rotate(360deg);
+  }	  
+}
+/**********web-sate************/
+.ico-boxWEB06{
+	width: auto;
+	height: 200px;
+	background: url( ico/MUSE-T.svg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-top: 10px;
+	margin-bottom: 10px;		  
+}
+.ico-boxWEB06:hover{
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	-webkit-animation-name: cog;
+  -webkit-animation-duration: 5s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-name: cog;
+  -moz-animation-duration: 5s;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-timing-function: linear;
+   -ms-animation-name: cog;
+  -ms-animation-duration: 5s;
+  -ms-animation-iteration-count: infinite;
+  -ms-animation-timing-function: linear;
+ 
+  animation-name: cog;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+@-ms-keyframes cog {
+  from { -ms-transform: rotate(0deg); }
+  to { -ms-transform: rotate(360deg); }
+}
+@-moz-keyframes cog {
+  from { -moz-transform: rotate(0deg); }
+  to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes cog {
+  from { -webkit-transform: rotate(0deg); }
+  to { -webkit-transform: rotate(360deg); }
+}
+@keyframes cog {
+  from {
+    transform:rotate(0deg);
+  }
+  to {
+    transform:rotate(360deg);
+  }	  
+}
+.WEBS01{
+	font-family:'russo one';
+	color: #003333;
+	font-size: 19px;
+	text-align: center;
+    padding-top: 98px
+}
+.WEBS02
+{
+	font-family:'russo one';
+	color: #003333;
+	font-size: 19px;
+	text-align: center;
+    padding-top: 98px
+}
+.WEBS03
+{
+	font-family:'russo one';
+	color: #003333;
+	font-size: 19px;
+	text-align: center;
+    padding-top: 85px
+}
+.WEBS04{
+	font-family:'russo one';
+	color: #003333;
+	font-size: 19px;
+	text-align: center;
+    padding-top: 98px
+}
+.WEBS05{
+	font-family: 'russo one';
+	color: #003333;
+	position: absolute;
+	margin: 98px auto auto 75px;
+	font-size: 18px
+}
+.WEBS06
+{
+	font-family:'russo one';
+	color: #003333;
+	font-size: 19px;
+	text-align: center;
+    padding-top: 98px
+}
+.WEBS07
+{
+	font-family:'russo one';
+	color: #003333;
+	font-size: 19px;
+	text-align: center;
+    padding-top: 98px
+}
+.WEBS08{
+	font-family:'russo one';
+	color: #003333;
+	font-size: 19px;
+	text-align: center;
+    padding-top: 98px
+}
+/************************************/
+
+/**********web-sate************/
+.ico-boxWEBM01{
+	width: auto;
+	height: 220px;
+	background: url(ico/webTM01.svg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-top: 10px;
+	margin-bottom: 10px;		  
+}
+.ico-boxWEBM01:hover{
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	-webkit-animation-name: cog;
+  -webkit-animation-duration: 5s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-name: cog;
+  -moz-animation-duration: 5s;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-timing-function: linear;
+   -ms-animation-name: cog;
+  -ms-animation-duration: 5s;
+  -ms-animation-iteration-count: infinite;
+  -ms-animation-timing-function: linear;
+ 
+  animation-name: cog;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+@-ms-keyframes cog {
+  from { -ms-transform: rotate(0deg); }
+  to { -ms-transform: rotate(360deg); }
+}
+@-moz-keyframes cog {
+  from { -moz-transform: rotate(0deg); }
+  to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes cog {
+  from { -webkit-transform: rotate(0deg); }
+  to { -webkit-transform: rotate(360deg); }
+}
+@keyframes cog {
+  from {
+    transform:rotate(0deg);
+  }
+  to {
+    transform:rotate(360deg);
+  }	  
+}
+/**********web-sate************/
+.ico-boxWEBM02{
+	width: auto;
+	height: 220px;
+	background: url(ico/webTM02.svg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-top: 10px;
+	margin-bottom: 10px;		  
+}
+.ico-boxWEBM02:hover{
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	-webkit-animation-name: cog;
+  -webkit-animation-duration: 5s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-name: cog;
+  -moz-animation-duration: 5s;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-timing-function: linear;
+   -ms-animation-name: cog;
+  -ms-animation-duration: 5s;
+  -ms-animation-iteration-count: infinite;
+  -ms-animation-timing-function: linear;
+ 
+  animation-name: cog;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+@-ms-keyframes cog {
+  from { -ms-transform: rotate(0deg); }
+  to { -ms-transform: rotate(360deg); }
+}
+@-moz-keyframes cog {
+  from { -moz-transform: rotate(0deg); }
+  to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes cog {
+  from { -webkit-transform: rotate(0deg); }
+  to { -webkit-transform: rotate(360deg); }
+}
+@keyframes cog {
+  from {
+    transform:rotate(0deg);
+  }
+  to {
+    transform:rotate(360deg);
+  }	  
+}
+/**********web-sate************/
+.ico-boxWEBM03{
+	width: auto;
+	height: 220px;
+	background: url(ico/webTM03.svg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-top: 10px;
+	margin-bottom: 10px;		  
+}
+.ico-boxWEBM03:hover{
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	-webkit-animation-name: cog;
+  -webkit-animation-duration: 5s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-name: cog;
+  -moz-animation-duration: 5s;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-timing-function: linear;
+   -ms-animation-name: cog;
+  -ms-animation-duration: 5s;
+  -ms-animation-iteration-count: infinite;
+  -ms-animation-timing-function: linear;
+ 
+  animation-name: cog;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+@-ms-keyframes cog {
+  from { -ms-transform: rotate(0deg); }
+  to { -ms-transform: rotate(360deg); }
+}
+@-moz-keyframes cog {
+  from { -moz-transform: rotate(0deg); }
+  to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes cog {
+  from { -webkit-transform: rotate(0deg); }
+  to { -webkit-transform: rotate(360deg); }
+}
+@keyframes cog {
+  from {
+    transform:rotate(0deg);
+  }
+  to {
+    transform:rotate(360deg);
+  }	  
+}
+/**********web-sate************/
+.ico-boxWEBM04{
+	width: auto;
+	height: 220px;
+	background: url(ico/webTM04.svg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-top: 10px;
+	margin-bottom: 10px;		  
+}
+.ico-boxWEBM04:hover{
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	-webkit-animation-name: cog;
+  -webkit-animation-duration: 5s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-name: cog;
+  -moz-animation-duration: 5s;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-timing-function: linear;
+   -ms-animation-name: cog;
+  -ms-animation-duration: 5s;
+  -ms-animation-iteration-count: infinite;
+  -ms-animation-timing-function: linear;
+ 
+  animation-name: cog;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+@-ms-keyframes cog {
+  from { -ms-transform: rotate(0deg); }
+  to { -ms-transform: rotate(360deg); }
+}
+@-moz-keyframes cog {
+  from { -moz-transform: rotate(0deg); }
+  to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes cog {
+  from { -webkit-transform: rotate(0deg); }
+  to { -webkit-transform: rotate(360deg); }
+}
+@keyframes cog {
+  from {
+    transform:rotate(0deg);
+  }
+  to {
+    transform:rotate(360deg);
+  }	  
+}
+/**********web-sate************/
+.ico-boxWEBM05{
+	width: auto;
+	height: 220px;
+	background: url( ico/webTM05.svg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-top: 10px;
+	margin-bottom: 10px;		  
+}
+.ico-boxWEBM05:hover{
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	-webkit-animation-name: cog;
+  -webkit-animation-duration: 5s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-name: cog;
+  -moz-animation-duration: 5s;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-timing-function: linear;
+   -ms-animation-name: cog;
+  -ms-animation-duration: 5s;
+  -ms-animation-iteration-count: infinite;
+  -ms-animation-timing-function: linear;
+ 
+  animation-name: cog;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+@-ms-keyframes cog {
+  from { -ms-transform: rotate(0deg); }
+  to { -ms-transform: rotate(360deg); }
+}
+@-moz-keyframes cog {
+  from { -moz-transform: rotate(0deg); }
+  to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes cog {
+  from { -webkit-transform: rotate(0deg); }
+  to { -webkit-transform: rotate(360deg); }
+}
+@keyframes cog {
+  from {
+    transform:rotate(0deg);
+  }
+  to {
+    transform:rotate(360deg);
+  }	  
+}
+/**********web-sate************/
+.ico-boxWEBM06{
+	width: auto;
+	height: 200px;
+	background: url( ico/MUSE-T.svg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-top: 10px;
+	margin-bottom: 10px;		  
+}
+.ico-boxWEBM06:hover{
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	-webkit-animation-name: cog;
+  -webkit-animation-duration: 5s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-name: cog;
+  -moz-animation-duration: 5s;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-timing-function: linear;
+   -ms-animation-name: cog;
+  -ms-animation-duration: 5s;
+  -ms-animation-iteration-count: infinite;
+  -ms-animation-timing-function: linear;
+ 
+  animation-name: cog;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+@-ms-keyframes cog {
+  from { -ms-transform: rotate(0deg); }
+  to { -ms-transform: rotate(360deg); }
+}
+@-moz-keyframes cog {
+  from { -moz-transform: rotate(0deg); }
+  to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes cog {
+  from { -webkit-transform: rotate(0deg); }
+  to { -webkit-transform: rotate(360deg); }
+}
+@keyframes cog {
+  from {
+    transform:rotate(0deg);
+  }
+  to {
+    transform:rotate(360deg);
+  }	  
+}
+.WEBSM01{
+	font-family:'russo one';
+	color: #003333;
+	font-size: 19px;
+	text-align: center;
+    padding-top: 98px
+}
+.WEBSM02{
+	font-family:'russo one';
+	color: #003333;
+	font-size: 19px;
+	text-align: center;
+    padding-top: 98px
+}
+.WEBSM03{
+	font-family:'russo one';
+	color: #003333;
+	font-size: 19px;
+	text-align: center;
+    padding-top: 98px
+}
+.WEBSM04{
+	font-family:'russo one';
+	color: #003333;
+	font-size: 19px;
+	text-align: center;
+    padding-top: 98px
+}
+.WEBSM05{
+	font-family:'russo one';
+	color: #003333;
+	font-size: 19px;
+	text-align: center;
+    padding-top: 98px
+}
+.WEBSM06{
+	font-family:'russo one';
+	color: #003333;
+	font-size: 19px;
+	text-align: center;
+    padding-top: 98px
+}
+.WEBSM07{
+	font-family:'russo one';
+	color: #003333;
+	font-size: 19px;
+	text-align: center;
+    padding-top: 98px
+}
+.WEBSM08{
+	font-family:'russo one';
+	color: #003333;
+	font-size: 19px;
+	text-align: center;
+    padding-top: 98px
+}
+.WEBSM00{
+	font-family:'russo one';
+	color: #003333;
+	font-size: 19px;
+	text-align: center;
+    padding-top: 98px
+}
+
+.ico-boxWEBMS{
+	width: auto;
+	height: 220px;
+	background: url( ico/webTM01.svg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-top: 10px;
+	margin-bottom: 10px;		  
+}
+
+.WEBSMS{
+	width: auto;
+	height: 220px;
+	background: url( ico/satelite.svg);
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	-webkit-animation-name: cog;
+  -webkit-animation-duration: 5s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-name: cog;
+  -moz-animation-duration: 5s;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-timing-function: linear;
+   -ms-animation-name: cog;
+  -ms-animation-duration: 5s;
+  -ms-animation-iteration-count: infinite;
+  -ms-animation-timing-function: linear; 
+  animation-name: cog;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+@-ms-keyframes cog {
+  from { -ms-transform: rotate(0deg); }
+  to { -ms-transform: rotate(360deg); }
+}
+@-moz-keyframes cog {
+  from { -moz-transform: rotate(0deg); }
+  to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes cog {
+  from { -webkit-transform: rotate(0deg); }
+  to { -webkit-transform: rotate(360deg); }
+}
+@keyframes cog {
+  from {
+    transform:rotate(0deg);
+  }
+  to {
+    transform:rotate(360deg);
+  }	  
+}

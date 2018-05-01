@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="500px" height="500px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 500 500"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#8AA4B3;stroke-width:25;stroke-miterlimit:22.9256}
+    .fil2 {fill:none}
+    .fil3 {fill:#FEFEFE}
+    .fil0 {fill:#1685AD}
+    .fil1 {fill:#457C9C}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <circle class="fil0" cx="250" cy="250" r="233.45"/>
+ </g>
+ <g id="Слой_x0020_1_0">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <polygon class="fil1" points="454,372 326.51,145.91 320,205 296.43,229.95 215.56,120.48 166,140 157.31,378.2 287.46,480.46 380.08,443.87 "/>
+  <circle class="fil2 str0" cx="250" cy="250" r="233.45"/>
+  <path class="fil3" d="M215.31 120.33l-58 0 0 257.87 58 0 0.3 -91.45 15.01 0.58c15.35,0.59 28.47,12.12 35.9,24.5 13.58,22.65 25.67,49.28 40.85,56.87 13.86,6.93 20.35,10.24 35.21,10.97l0.11 -52.07c-27.74,-10.23 -13.56,-18.03 -36.16,-49.35 -2.89,-4.01 -6.85,-6.76 -10.4,-9.46 -3.61,-2.7 -7.28,-4.66 -11.13,-5.83l0 -0.74c8.74,-2.51 16.64,-6.01 23.73,-10.43 7.1,-4.43 13.16,-9.71 18.18,-15.85 5.01,-6.08 8.93,-12.95 11.68,-20.57 2.76,-7.61 4.1,-15.9 4.1,-24.92 0,-46.73 -31.2,-70.12 -93.61,-70.12l-7.65 0 0 43.47c26.86,0 44.59,9.26 48.05,34.65 1.46,10.71 -5.05,20.4 -12.69,27.7 -7.52,7.19 -23.98,9.49 -36.4,9.49l-25.08 0 0 -71.84 0 -43.47z"/>
+ </g>
+</svg>

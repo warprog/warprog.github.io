@@ -1,0 +1,544 @@
+@charset "utf-8";
+
+@font-face{
+font-family: 'russo one';
+src: url(' ../font/russo-one.eot');
+src: url('../font/russo-one.eot') format('eot'),
+url('../ font/russo-one.woff') format('woff'),
+url('../ font/russo-one.ttf') format('truetype'),
+url('../ font/russo-one.svg#webfont') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+.box0000{
+	max-width: 800px;
+	min-width: 280px;
+	display: inline-block;
+	margin: 15px;
+	border-radius: 20px;		
+}
+.box01{
+	max-width: 800px;
+	min-width: 280px;
+	display: inline-block;
+	background: #D4D4D4;
+	padding: 15px;
+	border-radius:  20px 20px 0 0;
+}
+.box00{
+	max-width: 300px;
+	min-width: 280px;
+	display: inline-block;
+	margin: 15px;
+	border-radius: 20px;		
+}
+.box02{
+	max-width: 300px;
+	min-width: 280px;
+	display: inline-block;
+	background: #D4D4D4;
+	padding: 5px 15px 15px 15px;
+}
+.box-text-MT{
+	font-family: 'russo one';
+	font-size: 18px;
+	line-height: normal;
+	color: 000;
+	text-align: justify;
+	text-indent:15px;
+	color: #000000;
+	min-height: 50px;
+}
+/**********************************************/
+.box000{
+	max-width: 500px;
+	min-width: 280px;
+	display: inline-block;
+	margin: 15px;
+	border-radius: 20px;		
+}
+.box{
+	max-width: 500px;
+	min-width: 280px;
+	display: inline-block;
+	background: #D4D4D4;
+	padding: 15px;
+	border-radius:  20px 20px 0 0;
+}
+.box-text-up{
+	font-family: 'russo one';
+	font-size: 20px;
+	line-height: normal;
+	color: #000;
+	text-align: center;
+	height: 60px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+.box-text{
+	width: auto;
+	font-family: 'russo one';
+	font-size: 18px;
+	line-height: normal;
+	color: 000;
+	text-align: justify;
+	text-indent:15px;
+	color: #000000;
+}
+
+.boots01{
+	margin-top: 10px;
+	width: auto;
+	font-family: 'russo one';
+	font-size: 30px;
+	line-height: normal;
+	text-transform: uppercase;
+	color: 000;
+	height: 80px;
+	background: #0F7699;
+	display: flex;
+	justify-content: center;
+	align-items: center;	
+}
+.boots01:hover{
+	background: #01BEFF;
+}
+.boots01-01{
+	margin-top: 10px;
+	width: auto;
+	font-family: 'russo one';
+	font-size: 30px;
+	line-height: normal;
+	text-transform: uppercase;
+	color: 000;
+	height: 80px;
+	background: #0F7699;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 0 0 20px 20px;
+}
+.boots01-01:hover{
+	background: #01BEFF;
+}
+.boots01-02{
+	margin-top: 10px;
+	width: auto;
+	font-family: 'russo one';
+	font-size: 25px;
+	line-height: normal;
+	text-transform: uppercase;
+	color: 000;
+	height: 80px;
+	background: #0F7699;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius:  0 0 20px 20px;
+}
+.boots01-02:hover{
+	background: #01BEFF;
+}
+.boots01-03{
+	margin-bottom: 10px;
+	width: auto;
+	font-family: 'russo one';
+	font-size: 25px;
+	line-height: normal;
+	text-transform: uppercase;
+	color: 000;
+	height: 80px;
+	background: #0F7699;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 20px 20px 0 0;
+}
+.boots01-03:hover{
+	background: #01BEFF;
+}
+.bootsorigin{
+	display: block;
+	margin-top: 10px;
+	width: auto;
+	font-family: 'russo one';
+	font-size: 28px;
+	line-height: normal;
+	text-transform: uppercase;
+	color: 000;
+	height: 80px;
+	background: #0F7699;
+	border-radius: 0 0 20px 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.bootsorigin:hover{
+	background: #01BEFF;
+}
+.booo1 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background: url( ../img/1hexellence.png);
+  text-align: center;
+  width: 100%;
+  max-height: 100%;
+  min-height: 100vh;
+}
+.folder01{
+	display: inline-block;
+		  
+}
+.folder04{
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+		  
+}
+.icotext01{
+	width: auto;
+	font-family: 'russo one';
+	font-size: 18px;
+	line-height: normal;
+	text-transform: uppercase;
+	color: 000;
+	border-radius: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.icotext01:hover{
+	color: 000;
+}
+.bi01{
+	width: 170px;
+	display: inline-block;
+	margin: 15px
+}
+/**PC SOFT**/
+.icop01{
+	width: 170px;
+	height: 170px;
+	background: url( folders/PCSOFT.svg);
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+		  
+}
+/**ANDROID**/
+.icop02{
+	width: 170px;
+	height: 170px;
+	background: url( folders/ANDROID.svg);
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;		  
+}
+/**WEB DESING**/
+.icop03{
+	width: 170px;
+	height: 170px;
+	background: url( folders/WEBDESING.svg);
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+/**PHOTOSHOP**/
+.icop04{
+	width: 170px;
+	height: 170px;
+	background: url( folders/PHOTOSHOP.svg);
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+/**3D МОДЕЛИ**/
+.icop05{
+	width: 170px;
+	height: 170px;
+	background: url( folders/3DMODEL.svg);
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat; 
+}
+/**ОБОИ**/
+.icop06{
+	width: 170px;
+	height: 170px;
+	background: url( folders/WELAPERS.svg);
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+/**КНИЖНАЯ ПОЛКА**/
+.icop07{
+	width: 170px;
+	height: 170px;
+	background: url( folders/LITERA.svg);
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+/**РИНГТОНЫ**/
+.icop08{
+	width: 170px;
+	height: 170px;
+	background: url( folders/RINGTONS.svg);
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+/**PC SOFT** 120/120**/
+.icos01{
+	width: 120px;
+	height: 120px;
+	background: url( folders/PCSOFT.svg);
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+		  
+}
+/**ANDROID**/
+.icos02{
+	width: 120px;
+	height: 120px;
+	background: url( folders/ANDROID.svg);
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;	  		  
+}
+/**WEB DESING**/
+.icos03{
+	width: 120px;
+	height: 120px;
+	background: url( folders/WEBDESING.svg);
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+		  
+}
+/**PHOTOSHOP**/
+.icos04{
+	width: 120px;
+	height: 120px;
+	background: url( folders/PHOTOSHOP.svg);
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+		  
+}
+/**3D МОДЕЛИ**/
+.icos05{
+	width: 120px;
+	height: 120px;
+	background: url( folders/3DMODEL.svg);
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+/**ОБОИ**/
+.icos06{
+	width: 120px;
+	height: 120px;
+	background: url( folders/WELAPERS.svg);
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;	  
+}
+/**КНИЖНАЯ ПОЛКА**/
+.icos07{
+	width: 120px;
+	height: 120px;
+	background: url( folders/LITERA.svg);
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+/**РИНГТОНЫ**/
+.icos08{
+	width: 120px;
+	height: 120px;
+	background: url( folders/RINGTONS.svg);
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+		  
+}
+.icotext02{
+	width: 120px;
+	font-family: 'russo one';
+	font-size: 12px;
+	line-height: normal;
+	text-transform: uppercase;
+	color: 000;
+	border-radius: 5px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+.icotext02:hover{
+	color: 000;
+}
+.bi02{
+	width: 120px;
+	display: inline-block;
+	margin: 15px
+}
+.icotext03{
+	font-family: 'russo one';
+	font-size: 12px;
+	line-height: normal;
+	text-transform: uppercase;
+	color: 000;
+	padding:10px;
+	text-align:justify;
+	background: #fff;
+	color: #000;
+}
+.icotext04{
+	font-family: 'russo one';
+	font-size: 20px;
+	line-height: normal;
+	text-transform: uppercase;
+	text-align:center;
+	color: #fff;
+}
+/********************120**************************/
+.folder1{
+	display: inline-block;
+		  
+}
+.folder02{
+	display: inline-block;
+	width: 400px;
+		  
+}	
+.folder01 a{
+	color: #000000;
+}
+.folder04 a{
+	color: #000000;
+}
+/*******************boxMUSE*****************/
+.ico-boxMUSE{
+	width: auto;
+	height: 170px;
+	background: url( ico/MUSE-00.svg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-top: 10px;
+	margin-bottom: 10px;		  
+}
+.ico-boxMUSE:hover{
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	-webkit-animation-name: cog;
+  -webkit-animation-duration: 5s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-name: cog;
+  -moz-animation-duration: 5s;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-timing-function: linear;
+   -ms-animation-name: cog;
+  -ms-animation-duration: 5s;
+  -ms-animation-iteration-count: infinite;
+  -ms-animation-timing-function: linear;
+ 
+  animation-name: cog;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+@-ms-keyframes cog {
+  from { -ms-transform: rotate(0deg); }
+  to { -ms-transform: rotate(360deg); }
+}
+@-moz-keyframes cog {
+  from { -moz-transform: rotate(0deg); }
+  to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes cog {
+  from { -webkit-transform: rotate(0deg); }
+  to { -webkit-transform: rotate(360deg); }
+}
+@keyframes cog {
+  from {
+    transform:rotate(0deg);
+  }
+  to {
+    transform:rotate(360deg);
+  }	  
+}
+.video-01{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}	
+video {
+    border-radius: 10px; 
+
+}
+video::-webkit-media-controls-panel {
+    border-radius: 0px 0px 10px 10px;
+	background: #A7A7A7;
+	
+}
+video::-webkit-media-controls-play-button {
+	cursor: pointer;
+}
+
+video::-webkit-media-controls-poster {
+	cursor: pointer;
+}
+.video-02{
+	height: auto;
+	width: 100%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.video-03{
+	height: auto;
+	max-width: 500px;
+	min-width: 280px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	display: inline-block;
+}
+.youtube {
+	border-radius: 20px;
+	background-color: #F7F7F7;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    display: inline-block;
+}
+.youtube .play {
+    background: url(' ico/play.svg') no-repeat; /*ВАЖНО: здесь укажите адрес до изображения*/
+    background-position: 0 0;
+    -webkit-background-size: 100% auto;
+    background-size: 100% auto;
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    transition: none;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    margin:auto;
+	cursor: pointer;
+}
+.box-text-JA{
+	font-family: 'russo one';
+	font-size: 18px;
+	line-height: normal;
+	color: 000;
+	text-align: justify;
+	text-indent:15px;
+	color: #000000;
+	min-height: 50px;
+	margin-top: 10px;
+}
