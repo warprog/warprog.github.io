@@ -452,7 +452,7 @@
 .ico-boxRIN1{
 	width: auto;
 	height: 200px;
-	background: url( ico/ring-rus.svg);
+	background: url( ico/rus-ring.svg);
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -506,7 +506,7 @@
 .ico-boxRIN2{
 	width: auto;
 	height: 200px;
-	background: url( ico/ring-en.svg);
+	background: url( ico/en-rings.svg);
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -560,7 +560,7 @@
 .ico-boxRIN3{
 	width: auto;
 	height: 200px;
-	background: url( ico/ring-ot.svg);
+	background: url( ico/ot-rings.svg);
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: center;
