@@ -219,7 +219,6 @@
     background: #fff;
     border: 2px solid #000;
 }
-
 .mplayer__pause:after {
     content: '';
     position: absolute;
@@ -364,7 +363,8 @@
 	left: 15px;
 	background-size: cover;
 	background-position: center;
-	top:-20px
+	top:-20px;
+
 }
 .mplayer__random.mplayer__random-on {
     content: '';
@@ -386,11 +386,16 @@
     background:url( ../files/covers/down-mp3-2.svg);
 	background-size: cover;
 	background-position: center;
+	border: solid 2px;
+	border-radius: 10px;
 }
 .mplayer__ran-1:hover {
     background:url( ../files/covers/down-mr4-2.svg);
 	background-size: cover;
 	background-position: center;
+	border: solid 2px;
+	border-radius: 10px;
+
 }
 .mplayer__random::after,
 .mplayer__ran::after,
