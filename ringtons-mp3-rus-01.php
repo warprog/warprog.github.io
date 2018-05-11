@@ -1,4 +1,4 @@
-﻿<!doctype html>
+﻿<!DOCTYPE HTML>
 <html>
 <head>
     <meta charset="UTF-8"/>
@@ -269,6 +269,9 @@ width: 100%;
 <section once="" class="cid-qJKY42gMGr" id="footer6-n">
 </section>
 <section class="booo1" id="header2-3c"> 
+        <?php
+        echo "Привет, я - скрипт PHP!";
+        ?>
 <div class="fo00 brOS">Русские рингтоны (01)</div>
 <div class="folder01">
 <div class="container-2">
